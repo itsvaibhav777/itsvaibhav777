@@ -1,4 +1,4 @@
-![logo](https://github.com/itsvaibhav777/itsvaibhav777/blob/main/programming-background-with-person-working-with-codes-computer_23-2150010125.png)
+![logo](https://github.com/itsvaibhav777/itsvaibhav777/blob/main/software-developer-6521720_1280.jpg)
 <h1 align="center">Hi 👋, I'm Vaibhav Patel</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
